@@ -17,7 +17,7 @@ para rodar digite make run
 
 Este é um Gerenciador de Playlist. Ao rodar o programa, aparecerá um menu com as opções:
 
-# Gerenciador de Playlist
+#Gerenciador de Playlist
 
 identificação: Ellen de Oliveira Melo
 
@@ -60,8 +60,8 @@ Este é um Gerenciador de Playlist. Ao rodar o programa, aparecerá um menu com 
             2 - Imprimir músicas cadastradas
             3 - Sair
     
-    Ao digitar o número 1  o programa seguirá pedindo para que você coloque nome do artista e da Playlist.
-    Ao digitar o número 2  o programa mostrará as músicas cadastradas juntamente com as informações de artista, e playlist
+Ao digitar o número 1  o programa seguirá pedindo para que você coloque nome do artista e da Playlist.
+Ao digitar o número 2  o programa mostrará as músicas cadastradas juntamente com as informações de artista, e playlist
 
 Roteiro(exemplo):
 -
